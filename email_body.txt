@@ -1,0 +1,8 @@
+Hi $name,
+
+We wanted to reach out from SELLCO regarding $company.
+
+If you have any questions, just reply to this email.
+
+Best regards,
+The SELLCO Team
